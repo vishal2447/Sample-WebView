@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/App1/App1/bin/x86/Debug/net8.0-windows10.0.19041.0
+/App1/App1/obj
+/App1/App1 (Package)/bin/x86/Debug
+/App1/App1 (Package)/obj
+/App1/App1 (Package)/App1 (Package).wapproj.user
+/App1/App1 (Package)/App1 (Package).assets.cache
